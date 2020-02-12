@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="ESLintInspection" enabled="true" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlRequiredAltAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="CODING_STANDARD" value="PSR2" />
+      <option name="CHECK_JS" value="false" />
+      <option name="CHECK_CSS" value="false" />
+      <option name="EXTENSIONS" value="php,inc" />
+    </inspection_tool>
+    <inspection_tool class="PhpComposerExtensionStubsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
